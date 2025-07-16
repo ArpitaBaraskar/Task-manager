@@ -10,7 +10,7 @@ A modern, minimal, and responsive Task Manager web application built with React.
 - Responsive and user-friendly design
 
 ## Screenshots
-![Login Screen](./screenshots/login.png)
+![Login Screen](./screenshots/Login.png)
 ![Dashboard](./screenshots/dashboard.png)
 
 ## Getting Started
